@@ -41,7 +41,3 @@ To get started with the project, follow these steps:
 
    Your application should now be running on [http://localhost:3000](http://localhost:3000).
 
-## Project Structure
-
-The project is organized as follows:
-
